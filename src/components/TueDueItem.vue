@@ -19,7 +19,7 @@ export default {
 
 <style scoped>
   .btn {
-    background-color: var(--indigo);
-    color: var(--white);
+    background-color: var(--bs-indigo);
+    color: var(--bs-white);
   } 
 </style>
